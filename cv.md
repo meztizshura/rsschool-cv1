@@ -20,11 +20,11 @@ const makeItFunny = (str, n) => {
   let i = 0;
   let result = '';
   while (i < str.length) {
-    const current = str[i];
+    const newstr = str[i];
     if ((i + 1) % n === 0) {
-      result = `${result}${current.toUpperCase()}`;
+      result = `${result}${newstr.toUpperCase()}`;
     } else {
-      result = `${result}${current}`;
+      result = `${result}${newstr}`;
     }
     i++;
   }
