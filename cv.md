@@ -3,6 +3,7 @@
 ## Contact information: 
 * E-mail: afrolova923@gmail.com
 * Discord: Alexandra(@meztizshura)
+
 ## Briefly About Myself 
 I am an information technology software student in college.  I am currently working as an energy engineer. My goal is to start a career junior front-end developer and develop in this area.I have good analytical skills.
 
