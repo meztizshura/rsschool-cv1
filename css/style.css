@@ -1,15 +1,13 @@
 .mainblock{
- background-color: #d8bfd8;
- height: 900px;
- margin-bottom: 0px;
- margin-left: 0px;
- margin-top: 0px;
+    background-color: #d8bfd8;
+    height: 900px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-top: 0px;
 }
-
 .block1{
     display: inline-block;
 }
-
 .image1{
     width: 200px;
     height: 200px;
@@ -26,47 +24,38 @@
     color: #0B2349;
     display: table;  
 }
-
 .contact{
     margin-left: 230px;
     margin-top: -140px;
     margin-bottom: 0px;
 }
-
 .contactul{
     margin-left: 208px;
     margin-top: 10px;
 }
-
 .bam{
     margin-left: 0px;
     margin-top: 66px;
     margin-bottom: 0px;
 }
-
 .information{
     margin-top: 10px;
 }
-
 .skills{
     margin-top: -9px;
 }
-
 .skillstxt{
     margin-top: -7px;
     margin-left: -22px;
 }
-
 .code{
     margin-top: -10px;
     margin-left: -111px;
 }
-
 .ltxt{
     margin-top: -22px;
     margin-bottom: 0px;
 }
-
 .spisok{
     margin-left: -22px;
 }
