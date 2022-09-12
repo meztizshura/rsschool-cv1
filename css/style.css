@@ -19,7 +19,6 @@
     margin-left: 230px;
     width: 300px; 
     background: linear-gradient(45deg, #0B2349 33%, #0D61BC 66%, #8AA9D6);
-    -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     color: #0B2349;
     display: table;  
