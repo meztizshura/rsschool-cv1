@@ -37,5 +37,3 @@ const makeItFunny = (str, n) => {
 * Russian - Native
 * Ukrainian - Intermediate 
 * English - Pre-Intermediate 
-
-
